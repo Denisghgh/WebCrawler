@@ -1,0 +1,17 @@
+Godot Engine v3.2.3.stable.official - https://godotengine.org
+OpenGL ES 3.0 Renderer: Intel(R) HD Graphics 620
+ 
+Project is missing: C:/Users/Denizka/Documents/Test/project.godot
+Project is missing: C:/Users/Denizka/Documents/MyFiles/StudentenProject/siphonarii-master/project.godot
+Project is missing: C:/Users/Denizka/Documents/MyFiles/StudentenProject/1/project.godot
+Project is missing: C:/Users/Denizka/Documents/MyFiles/StudentenProject/2/siphonarii/project.godot
+Project is missing: C:/Users/Denizka/Documents/MyFiles/StudentenProject/4/siphonarii-master/project.godot
+Project is missing: C:/Users/Denizka/Documents/MyFiles/StudentenProject/main/siphonarii/project.godot
+Project is missing: C:/Users/Denizka/Documents/MyFiles/StudentenProject/4/siphonarii-brennendes-haus/project.godot
+Project is missing: C:/Users/Denizka/Documents/MyFiles/StudentenProject/5/siphonarii-brennendes-haus/project.godot
+Project is missing: C:/Users/Denizka/Documents/MyFiles/StudentenProject/6/siphonarii-brennendes-haus/project.godot
+Project is missing: C:/Users/Denizka/Documents/MyFiles/StudentenProject/7/siphonarii-brennendes-haus/project.godot
+Project is missing: C:/Users/Denizka/Documents/MyFiles/StudentenProject/main2/siphonarii/project.godot
+Project is missing: C:/Users/Denizka/Documents/MyFiles/StudentenProject/main3/siphonarii/project.godot
+**ERROR**: Condition "default_certs != __null" is true.
+   At: modules/mbedtls/crypto_mbedtls.cpp:201:load_default_certificates() - Condition "default_certs != __null" is true.
