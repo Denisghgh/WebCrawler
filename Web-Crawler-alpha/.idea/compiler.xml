@@ -8,7 +8,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="WebCrawler" />
         <module name="Web-Crawler" />
-        <module name="1" />
       </profile>
     </annotationProcessing>
   </component>

@@ -1,5 +1,3 @@
-package MyCrawler;
-
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.*;
 import org.jsoup.select.Elements;

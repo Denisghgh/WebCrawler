@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="414e6f32-b4c6-4274-99fd-507b667f119c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Crawl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Crawl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="beta" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Victaria/Web-Crawler.git" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1TZryidX9DdTTrCjer20t8MQcl0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.33227175" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="webdriver" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Disk_D\WebCrawler\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="BasicWebCrawler" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BasicWebCrawler" />
+      <module name="Web-Crawler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Coll_list" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coll_list" />
+      <module name="Web-Crawler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Crawl_iterative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Crawl_iterative" />
+      <module name="Web-Crawler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exctractor" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Extractor" />
+      <module name="Web-Crawler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Web-Crawler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadExcelDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exceltest.ReadExcelDemo" />
+      <module name="Web-Crawler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Site" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Coll_uniq" />
+      <module name="Web-Crawler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Texts_un" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Texts_un" />
+      <module name="Web-Crawler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chrome_crawler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="webdriver.chrome_crawler" />
+      <module name="Web-Crawler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="webdriver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BasicWebCrawler" />
+      <item itemvalue="Application.Exctractor" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Site" />
+      <item itemvalue="Application.ReadExcelDemo" />
+      <item itemvalue="Application.chrome_crawler" />
+      <item itemvalue="Application.Coll_list" />
+      <item itemvalue="Application.Crawl_iterative" />
+      <item itemvalue="Application.Texts_un" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Texts_un" />
+        <item itemvalue="Application.Coll_list" />
+        <item itemvalue="Application.Crawl_iterative" />
+        <item itemvalue="Application.chrome_crawler" />
+        <item itemvalue="Application.ReadExcelDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="414e6f32-b4c6-4274-99fd-507b667f119c" name="Default Changelist" comment="" />
+      <created>1572162009781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572162009781</updated>
+      <workItem from="1572162013211" duration="4812000" />
+      <workItem from="1572260722010" duration="1720000" />
+      <workItem from="1572262573034" duration="1773000" />
+      <workItem from="1574547246258" duration="5174000" />
+      <workItem from="1574611052785" duration="1944000" />
+      <workItem from="1574618440384" duration="4711000" />
+      <workItem from="1574789460698" duration="19832000" />
+      <workItem from="1574811108792" duration="2680000" />
+      <workItem from="1574856216218" duration="5466000" />
+      <workItem from="1575402650642" duration="4654000" />
+      <workItem from="1575469545725" duration="4673000" />
+      <workItem from="1575479441104" duration="12238000" />
+      <workItem from="1575534234931" duration="860000" />
+      <workItem from="1575574974284" duration="6042000" />
+      <workItem from="1575651320075" duration="2933000" />
+      <workItem from="1575654275175" duration="2445000" />
+      <workItem from="1576788859674" duration="45000" />
+      <workItem from="1576788921838" duration="125000" />
+      <workItem from="1576789062730" duration="11742000" />
+    </task>
+    <task id="LOCAL-00001" summary="add branch library">
+      <created>1574187599442</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574187599442</updated>
+    </task>
+    <task id="LOCAL-00002" summary="library update">
+      <created>1574196296818</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574196296818</updated>
+    </task>
+    <task id="LOCAL-00003" summary="library update">
+      <created>1574260877101</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574260877101</updated>
+    </task>
+    <task id="LOCAL-00004" summary="rename branch beta&#10;-beta is for programming&#10;-alpha is for release working versions">
+      <created>1574375496966</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574375496967</updated>
+    </task>
+    <task id="LOCAL-00005" summary="rename branch beta&#10;-beta is for programming&#10;-alpha is for release working versions">
+      <created>1574375516646</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1574375516646</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add Microsoft Excel framework">
+      <created>1574545214704</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574545214704</updated>
+    </task>
+    <task id="LOCAL-00007" summary="integrate Microsoft Excel framework">
+      <created>1574551652551</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1574551652551</updated>
+    </task>
+    <task id="LOCAL-00008" summary="integrate Microsoft Excel framework">
+      <created>1574551682788</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1574551682788</updated>
+    </task>
+    <task id="LOCAL-00009" summary="cleaning">
+      <created>1574552416879</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1574552416879</updated>
+    </task>
+    <task id="LOCAL-00010" summary="import webdriver">
+      <created>1574620441225</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1574620441225</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add alpha">
+      <created>1574621395109</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1574621395109</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add testing for webdriver">
+      <created>1574623667729</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1574623667729</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add alpha">
+      <created>1574624507740</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1574624507740</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add better crawler">
+      <created>1574798919195</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1574798919195</updated>
+    </task>
+    <task id="LOCAL-00015" summary="upgrade crawler">
+      <created>1574803462565</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1574803462565</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add iterative">
+      <created>1574808490067</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1574808490067</updated>
+    </task>
+    <task id="LOCAL-00017" summary="repair and update">
+      <created>1574812897492</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1574812897492</updated>
+    </task>
+    <task id="LOCAL-00018" summary="up">
+      <created>1574813176585</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1574813176585</updated>
+    </task>
+    <task id="LOCAL-00019" summary="more data">
+      <created>1574861387435</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1574861387435</updated>
+    </task>
+    <task id="LOCAL-00020" summary="del output">
+      <created>1575402749805</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1575402749805</updated>
+    </task>
+    <task id="LOCAL-00021" summary="del output">
+      <created>1575405547014</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1575405547014</updated>
+    </task>
+    <task id="LOCAL-00022" summary="up">
+      <created>1575407270490</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1575407270490</updated>
+    </task>
+    <task id="LOCAL-00023" summary="up">
+      <created>1575407289056</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1575407289056</updated>
+    </task>
+    <task id="LOCAL-00024" summary="create list finish">
+      <created>1575471997285</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1575471997285</updated>
+    </task>
+    <task id="LOCAL-00025" summary="update">
+      <created>1575472641845</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1575472641845</updated>
+    </task>
+    <task id="LOCAL-00026" summary="coll_list to analyse list of ULR`s">
+      <created>1575485587088</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1575485587088</updated>
+    </task>
+    <task id="LOCAL-00027" summary="up">
+      <created>1575490596168</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1575490596168</updated>
+    </task>
+    <task id="LOCAL-00028" summary="up">
+      <created>1575491650042</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1575491650042</updated>
+    </task>
+    <task id="LOCAL-00029" summary="up">
+      <created>1575491711325</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1575491711325</updated>
+    </task>
+    <task id="LOCAL-00030" summary="crawl texts">
+      <created>1575583168876</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1575583168876</updated>
+    </task>
+    <task id="LOCAL-00031" summary="deactivate errors">
+      <created>1575584501831</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1575584501831</updated>
+    </task>
+    <task id="LOCAL-00032" summary="adjust prepair p">
+      <created>1575584753477</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1575584753477</updated>
+    </task>
+    <task id="LOCAL-00033" summary="add new text_sum for all texts in one cell">
+      <created>1575654878781</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1575654878781</updated>
+    </task>
+    <task id="LOCAL-00034" summary="up">
+      <created>1575655227114</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1575655227114</updated>
+    </task>
+    <task id="LOCAL-00035" summary="up">
+      <created>1575655499001</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1575655499001</updated>
+    </task>
+    <task id="LOCAL-00036" summary="finish">
+      <created>1575655549821</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1575655549821</updated>
+    </task>
+    <task id="LOCAL-00037" summary="up">
+      <created>1575658008756</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1575658008756</updated>
+    </task>
+    <task id="LOCAL-00038" summary="ADD: name excel file by date">
+      <created>1576791117569</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1576791117569</updated>
+    </task>
+    <task id="LOCAL-00039" summary="UPDATE: README.md">
+      <created>1576793540256</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1576793540256</updated>
+    </task>
+    <task id="LOCAL-00040" summary="UPDATE: very much">
+      <created>1576794256028</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1576794256028</updated>
+    </task>
+    <task id="LOCAL-00041" summary="ADD: class Date, it saves the creation time of a URL">
+      <created>1576800295627</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1576800295627</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="add Microsoft Excel framework" />
+    <MESSAGE value="integrate Microsoft Excel framework" />
+    <MESSAGE value="cleaning" />
+    <MESSAGE value="import webdriver" />
+    <MESSAGE value="add testing for webdriver" />
+    <MESSAGE value="add alpha" />
+    <MESSAGE value="add better crawler" />
+    <MESSAGE value="upgrade crawler" />
+    <MESSAGE value="add iterative" />
+    <MESSAGE value="repair and update" />
+    <MESSAGE value="more data" />
+    <MESSAGE value="del output" />
+    <MESSAGE value="create list finish" />
+    <MESSAGE value="update" />
+    <MESSAGE value="coll_list to analyse list of ULR`s" />
+    <MESSAGE value="crawl texts" />
+    <MESSAGE value="deactivate errors" />
+    <MESSAGE value="adjust prepair p" />
+    <MESSAGE value="add new text_sum for all texts in one cell" />
+    <MESSAGE value="finish" />
+    <MESSAGE value="up" />
+    <MESSAGE value="ADD: name excel file by date" />
+    <MESSAGE value="UPDATE: README.md" />
+    <MESSAGE value="UPDATE: very much" />
+    <MESSAGE value="ADD: class Date, it saves the creation time of a URL" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD: class Date, it saves the creation time of a URL" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="274" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1575579539482">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="274" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1575579539482" />
+    <state x="737" y="309" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575405978590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="737" y="309" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1575405978590" />
+    <state x="803" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1575402672122">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="803" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1575402672122" />
+    <state x="543" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1575405438393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="543" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1575405438393" />
+    <state x="583" y="28" key="CommitChangelistDialog2" timestamp="1576800845853">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="583" y="28" key="CommitChangelistDialog2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576800845853" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1575479930586">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1575479930586" />
+    <state width="1877" height="220" key="GridCell.Tab.0.bottom" timestamp="1576800848230">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="220" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576800848230" />
+    <state width="1877" height="220" key="GridCell.Tab.0.center" timestamp="1576800848230">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="220" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576800848230" />
+    <state width="1877" height="220" key="GridCell.Tab.0.left" timestamp="1576800848229">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="220" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576800848229" />
+    <state width="1877" height="220" key="GridCell.Tab.0.right" timestamp="1576800848230">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="220" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576800848230" />
+    <state width="1877" height="383" key="GridCell.Tab.1.bottom" timestamp="1575584775954">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="383" key="GridCell.Tab.1.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1575584775954" />
+    <state width="1877" height="383" key="GridCell.Tab.1.center" timestamp="1575584775954">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="383" key="GridCell.Tab.1.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1575584775954" />
+    <state width="1877" height="383" key="GridCell.Tab.1.left" timestamp="1575584775954">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="383" key="GridCell.Tab.1.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1575584775954" />
+    <state width="1877" height="383" key="GridCell.Tab.1.right" timestamp="1575584775954">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="383" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1575584775954" />
+    <state x="529" y="154" key="SettingsEditor" timestamp="1576789046802">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="529" y="154" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576789046802" />
+    <state x="807" y="428" key="VCS.ChangelistChooser" timestamp="1575402728455">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="807" y="428" key="VCS.ChangelistChooser/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1575402728455" />
+    <state x="552" y="233" key="Vcs.Push.Dialog.v2" timestamp="1576800298428">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="233" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576800298428" />
+    <state x="715" y="365" key="cloudConfig.PluginsDialog" timestamp="1576788989230">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="365" key="cloudConfig.PluginsDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576788989230" />
+    <state x="715" y="365" key="cloudConfig.SelfSettingsDialog" timestamp="1576788937607">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="365" key="cloudConfig.SelfSettingsDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576788937607" />
+    <state x="767" y="431" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575491667528">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="767" y="431" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1575491667528" />
+    <state x="690" y="274" key="extract.method.dialog" timestamp="1575579995326">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="274" key="extract.method.dialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1575579995326" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1576788886151">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576788886151" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1576792916944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576792916944" />
+  </component>
+</project>
